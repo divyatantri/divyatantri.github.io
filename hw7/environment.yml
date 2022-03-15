@@ -1,6 +1,6 @@
-name: example-environment
+name: pygdal
 channels:
-  - conda
+  - conda-forge
 dependencies:
   - numpy
   - pandas

@@ -1,6 +1,6 @@
-name: pygdal
+name: example-environment
 channels:
-  - conda
+  - defaults
 dependencies:
   - python=3.10.2
   - pandas

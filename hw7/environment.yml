@@ -1,7 +1,8 @@
 name: pygdal
 channels:
-  - conda
+  - conda-forge
 dependencies:
+  - python=3.9.7.final.0
   - numpy
   - pandas
   - ipywidgets

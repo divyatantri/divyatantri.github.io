@@ -1,6 +1,6 @@
 name: pygdal
 channels:
-  - conda-forge
+  - conda
 dependencies:
   - numpy
   - pandas

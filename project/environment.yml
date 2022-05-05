@@ -7,7 +7,5 @@ dependencies:
   - numpy
   - traitlets
   - ipywidgets
-  - plotly
-  - bqplot
   - matplotlib
   - datetime

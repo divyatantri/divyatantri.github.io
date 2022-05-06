@@ -7,3 +7,15 @@ dependencies:
   - numpy
   - traitlets
   - ipywidgets
+  - psutil
+  - toolz
+  - matplotlib
+  - dill
+  - pandas
+  - partd
+  - bokeh
+  - dask
+  - plotly
+  - bqplot
+  - seaborn
+  - panel  

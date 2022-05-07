@@ -18,4 +18,5 @@ dependencies:
   - plotly
   - bqplot
   - seaborn
-  - panel  
+  - panel
+  - squarify
